@@ -37,11 +37,11 @@ bvals = zeros(1,length(msh.bfaces));
 Nc_xs = 6;
 Nc_ys = Nc_xs;
 extensions = 5:5:15;
-nlocs = 2:4:18;
+nlocs = 2:2:20;
 gammas = 1/max(coeffs,[],'all');
 %gammas = [1e-6 1e-5 1e-4 1e-3 1e-2 1e-1 1 1e1 1e2 1e3];
 
 % Run the simulation
-filename = '../../data/Example3_nloc_l_venr_test.mat';
+filename = '../../data/Example3_nloc_l.mat';
 [v_err,p_err] = runSimulation(msh, coeffs, rhs, bvals, Nc_xs, Nc_ys, extensions, nlocs, gammas, filename);
 
