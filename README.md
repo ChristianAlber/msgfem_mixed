@@ -26,7 +26,7 @@ This project explores the extension of MS-GFEM to mixed problems. The provided c
 
     For example, if using MATLAB, ensure it is installed and configured properly on your system.
 
-2. **Running the Experiments**:
+## Running the Experiments
 
 To run the experiments associated with the paper:
 
@@ -40,15 +40,16 @@ This script will reproduce the experiments and results shown in the paper. You m
 
     The output of the simulations will be generated in the form of .mat files in the folder "data".
 
-Folder Structure
+## Folder Structure
 
     Simulation/: Contains all the scripts and configuration files required to run the experiments described in the paper.
     data/: After running the simulations, output files will be stored here.
 
-License
+## License
 
 This code is distributed under the MIT License. See the LICENSE file for more details.
-Citing This Work
+
+## Citing This Work
 
 If you use this code in your research or projects, please consider citing the associated paper:
 
