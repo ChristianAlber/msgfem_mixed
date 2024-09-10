@@ -53,12 +53,8 @@ This code is distributed under the MIT License. See the LICENSE file for more de
 
 If you use this code in your research or projects, please consider citing the associated paper:
 
-@article{alber2024mixed,
-  title={A Mixed Multiscale Spectral Generalized Finite Element Method},
-  author={Alber, Christian and Ma, Chupeng and Scheichl, Robert},
-  journal={arXiv preprint arXiv:2403.16714},
-  year={2024}
-}
+  C. Alber, C. Ma, and R. Scheichl, A mixed multiscale spectral generalized finite element
+method, arXiv preprint arXiv:2403.16714, (2024)
 
 
 Feel free to contact us for any questions or issues related to running the code.
