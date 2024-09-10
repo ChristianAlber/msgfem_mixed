@@ -21,16 +21,14 @@ This project explores the extension of MS-GFEM to mixed problems. The provided c
    git clone https://github.com/ChristianAlber/msgfem_mixed.git
    cd msgfem_mixed
 
-    Install necessary dependencies. Ensure you have the following installed:
-        [List of dependencies, e.g., MATLAB, Python, required libraries, etc.]
-
-    For example, if using MATLAB, ensure it is installed and configured properly on your system.
+Install necessary dependencies. Ensure you have the following installed:
+MATLAB
 
 ## Running the Experiments
 
 To run the experiments associated with the paper:
 
-    Navigate to example 1,2 or 3 in the Simulation folder:
+Navigate to example 1,2 or 3 in the Simulation folder:
 
     cd Simulation/Example
 
@@ -38,7 +36,7 @@ Open MATLAB and run the main simulation file testSimulation.m
 
 This script will reproduce the experiments and results shown in the paper. You might have to adjust the parameter setting in the code. 
 
-    The output of the simulations will be generated in the form of .mat files in the folder "data".
+The output of the simulations will be generated in the form of .mat files in the folder "data".
 
 ## Folder Structure
 
