@@ -8,3 +8,4 @@ version: 1.0.0
 identifiers:
   - type: doi
 date-released: 2024-09-10
+url: "https://github.com/ChristianAlber/msgfem_mixed"
